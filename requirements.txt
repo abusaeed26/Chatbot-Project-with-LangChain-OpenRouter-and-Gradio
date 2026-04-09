@@ -1,0 +1,6 @@
+gradio
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-community==0.0.12
+openai
+tiktoken==0.5.2 # Pinning version due to potential build issues on some platforms
